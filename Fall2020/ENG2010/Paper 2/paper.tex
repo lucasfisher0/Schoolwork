@@ -1,0 +1,49 @@
+\documentclass[stu, draftall]{apa7}
+
+% Bibliography in APA Format
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\usepackage[style=apa]{biblatex}
+\DeclareLanguageMapping{american}{american-apa}
+\addbibresource{paper.bib}
+
+% APA Styling
+\geometry{margin=1in}
+\usepackage{mathptmx}
+\linespread{1.2}%
+\selectfont
+
+% Title & Paper Information
+\title{Paper 2 - Untitled}
+\shorttitle{FISHER}
+
+\authorsnames{Lucas Fisher}
+\authorsaffiliations{Weber State University}
+\course{ENGL 2010}
+\professor{Jose Otero and Ernesto Hernandez Jr.}
+\duedate{November 29th, 2020}
+
+\begin{document}
+\maketitle
+We begin with \textcite{Shotton1989}.  We can also cite this work in
+parenthesis, like this: \parencite{Shotton1989}.
+
+A three-author paper \parencite[e.g.,][]{Lassen2006} lists all
+three authors for the first citation, then only the first author
+on all subsequent citations \parencite{Lassen2006}.
+
+This is a test citation \parencite{Burris2001}.
+
+
+% ANNOTATED BIBLIOGRAPHY %
+\newpage
+{\centering Introduction\par}
+The Merriam-Webster dictionary defines “technology” as a “practical application of knowledge.” As a society, we have obtained chemical and biological knowledge that we can use to affect ourselves. Drugs as any other form of technology must be analyzed to identify both its harms and benefits, and the potential of either. This paper looks at the impacts that drugs have had on society and critiques on how they should be regulated, along with the current attempts of drug regulation in the United States.
+
+
+\nocite{*} % REMOVE - Force all citations
+\bfseries
+\printbibliography[heading=none]
+\normalfont
+
+\end{document}

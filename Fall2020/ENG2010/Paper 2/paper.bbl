@@ -1,0 +1,141 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Lassen2006}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=113ba0caeb480cbd66003b982f74614c}{%
+           family={Lassen},
+           familyi={L\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c06061e73a05b8090ebc06eaaa9f2855}{%
+           family={R.},
+           familyi={R\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31342e4761328233508009860f6eb938}{%
+           family={Steele},
+           familyi={S\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fc8b54c18681d08a27c9231fc63eb678}{%
+           family={M.},
+           familyi={M\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=359a93b7c3e76123ae0e97ce57a119a3}{%
+           family={Sailor},
+           familyi={S\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdaa1b2d48b75a2df1b1cc3151c0be43}
+      \strng{fullhash}{eac32152a6c33eaddda64f0d98bf4908}
+      \strng{bibnamehash}{eac32152a6c33eaddda64f0d98bf4908}
+      \strng{authorbibnamehash}{eac32152a6c33eaddda64f0d98bf4908}
+      \strng{authornamehash}{bdaa1b2d48b75a2df1b1cc3151c0be43}
+      \strng{authorfullhash}{eac32152a6c33eaddda64f0d98bf4908}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychology in the Schools}
+      \field{number}{6}
+      \field{title}{The relationship of school-wide positive behavior support to academic achievement in an urban middle school}
+      \field{volume}{43}
+      \field{year}{2006}
+      \field{pages}{701\bibrangedash 712}
+      \range{pages}{12}
+    \endentry
+    \entry{Buris2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc00eff82e65831d510ce330e3068a41}{%
+           family={shiet},
+           familyi={s\bibinitperiod},
+           given={Burris},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={n},
+           prefixi={n\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc00eff82e65831d510ce330e3068a41}
+      \strng{fullhash}{cc00eff82e65831d510ce330e3068a41}
+      \strng{bibnamehash}{cc00eff82e65831d510ce330e3068a41}
+      \strng{authorbibnamehash}{cc00eff82e65831d510ce330e3068a41}
+      \strng{authornamehash}{cc00eff82e65831d510ce330e3068a41}
+      \strng{authorfullhash}{cc00eff82e65831d510ce330e3068a41}
+      \field{sortinit}{n}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{The majority of individuals with a current chemical addiction see a doctor every six months. Physician prescribed injection equipment creates an opportunity for harm reduction. Prescribing injection equipment is legal in 48 states and widely unhindered by drug paraphernalia laws. Currently facilitating safe-injections is not possible without changing drug paraphernalia and prescription laws. State medical and pharmacy boards have the power to declare providing injection equipment as an acceptable practice. The obligation of state government and medical professionals is to insure law does not prohibit medically legitimate care. \par The three authors of this article all hold a juris doctorate degree, with an academic pedigree including the Temple University School of Law, Stanford University, and Yale Law School. The publishing container is a student-run journal at Case Western Reserve University School of Law.}
+      \field{journaltitle}{Psychology in the Schools}
+      \field{number}{6}
+      \field{title}{The relationship of school-wide positive behavior support to academic achievement in an urban middle school}
+      \field{volume}{43}
+      \field{year}{2006}
+      \true{nocite}
+      \field{pages}{701\bibrangedash 712}
+      \range{pages}{12}
+    \endentry
+    \entry{Shotton1989}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=63fdd581cbd87799f544a10267906191}{%
+           family={Shotton},
+           familyi={S\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=80c1f9e17fb88e405df9cdb96845a86e}{%
+           family={A.},
+           familyi={A\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, England}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{7ce3229645318cfeb91c008639f23c46}
+      \strng{fullhash}{7ce3229645318cfeb91c008639f23c46}
+      \strng{bibnamehash}{7ce3229645318cfeb91c008639f23c46}
+      \strng{authorbibnamehash}{7ce3229645318cfeb91c008639f23c46}
+      \strng{authornamehash}{7ce3229645318cfeb91c008639f23c46}
+      \strng{authorfullhash}{7ce3229645318cfeb91c008639f23c46}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer addiction? {A} study of computer dependency}
+      \field{year}{1989}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

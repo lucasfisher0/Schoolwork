@@ -1,0 +1,76 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=latex 2020.11.3)  3 NOV 2020 00:17
+entering extended mode
+**./apa-ab.dbj
+(apa-ab.dbj
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\Lucas\AppData\Local\Programs\MiKTeX\tex/latex/base\docstrip.tex
+\blockLevel=\count175
+\emptyLines=\count176
+\processedLines=\count177
+\commentsRemoved=\count178
+\commentsPassed=\count179
+\codeLinesPassed=\count180
+\TotalprocessedLines=\count181
+\TotalcommentsRemoved=\count182
+\TotalcommentsPassed=\count183
+\TotalcodeLinesPassed=\count184
+\NumberOfFiles=\count185
+\inFile=\read2
+\inputcheck=\read3
+\off@0=\count186
+\off@1=\count187
+\off@2=\count188
+\off@3=\count189
+\off@4=\count190
+\off@5=\count191
+\off@6=\count192
+\off@7=\count193
+\off@8=\count194
+\off@9=\count195
+\off@10=\count196
+\off@11=\count197
+\off@12=\count198
+\off@13=\count199
+\off@14=\count266
+\off@15=\count267
+\@maxfiles=\count268
+\@maxoutfiles=\count269
+
+Utility: `docstrip' v2.6a <2020-07-07>
+English documentation    <2020-07-11>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+)
+
+Generating file(s) ./apa-ab.bst 
+\openout0 = `./apa-ab.bst'.
+
+
+Processing file merlin.mbs (babel,ay,alk,lang,annote,seq-lab,vonx,xintls,nm-rvv
+c,jnrlab,nmft,nmft-bf,nmand-rm,keyxyr,blkyear,yr-blk,aymth,dtbf,note-yr,tit-qq,
+qt-s,num-xser,isbn,issn,doi,xedn,nfss,) -> apa-ab.bst
+Lines  processed: 9446
+Comments removed: 3867
+Comments  passed: 1
+Codelines passed: 3732
+
+ ) 
+Here is how much of TeX's memory you used:
+ 653 strings out of 480237
+ 5902 string characters out of 2880584
+ 278090 words of memory out of 3000000
+ 17302 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,0n,15p,316b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+No pages of output.
